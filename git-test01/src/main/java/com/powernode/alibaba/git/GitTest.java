@@ -16,6 +16,7 @@ public class GitTest {
         System.out.println("master分支出现紧急bug,需要热修分支");
         System.out.println("hot-fix 正在紧急修复中....");
         System.out.println("push test!");
+        System.out.println("pull test!");
 
     }
 }
