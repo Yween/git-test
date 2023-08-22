@@ -13,5 +13,7 @@ public class GitTest {
         System.out.println("hello！git2!");
         System.out.println("hello! git4!");
         System.out.println("Sophia! Thanks for you help!");
+        System.out.println("master分支出现紧急bug,需要热修分支");
+
     }
 }
